@@ -1,13 +1,10 @@
-import { FC, useContext } from 'react';
 import incomeImg from '../../assets/income.svg';
 import outcomeImg from '../../assets/outcome.svg';
-import totalImg from '../../assets/total.svg';
+import totalImg from '../../assets/dol.svg';
 import { useTransactions } from '../../hooks/useTransactions';
 import { Container } from './styles';
 
-interface IProps {}
-
-export const SUmmary: FC<IProps> = ({}) => {
+export const SUmmary = () => {
   const { transactions } = useTransactions();
 
   const summary = transactions.reduce(
@@ -55,7 +52,7 @@ export const SUmmary: FC<IProps> = ({}) => {
       <div className="highlight-background">
         <header>
           <p>Total</p>
-          <img src={totalImg} alt="Total" />
+          <img src={totalImg} style={{ width: 32, height: 32 }} alt="Total" />
         </header>
         <strong>
           {new Intl.NumberFormat('pt-Br', {
