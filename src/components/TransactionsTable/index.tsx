@@ -1,10 +1,7 @@
-import { FC, useContext } from 'react';
 import { useTransactions } from '../../hooks/useTransactions';
 import { Container } from './styles';
 
-interface IProps {}
-
-export const TransactionsTable: FC<IProps> = ({}) => {
+export const TransactionsTable = () => {
   const { transactions } = useTransactions();
 
   return (
