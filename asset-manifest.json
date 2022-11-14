@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/vb-money/static/js/main.d86dc8e6.js",
-    "static/media/vb-money.svg": "/vb-money/static/media/vb-money.825c224dd7bcc30297291404d30cc862.svg",
-    "static/media/dol.svg": "/vb-money/static/media/dol.3a547f9c2ae49647962fbd823349d69f.svg",
-    "index.html": "/vb-money/index.html",
-    "static/media/outcome.svg": "/vb-money/static/media/outcome.6eb96d3079777422e5bd5deaa688a46e.svg",
-    "static/media/income.svg": "/vb-money/static/media/income.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
-    "static/media/close.svg": "/vb-money/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
-    "main.d86dc8e6.js.map": "/vb-money/static/js/main.d86dc8e6.js.map"
+    "main.js": "/github-page/static/js/main.9767fc0c.js",
+    "static/media/vb-money.svg": "/github-page/static/media/vb-money.825c224dd7bcc30297291404d30cc862.svg",
+    "static/media/dol.svg": "/github-page/static/media/dol.3a547f9c2ae49647962fbd823349d69f.svg",
+    "index.html": "/github-page/index.html",
+    "static/media/outcome.svg": "/github-page/static/media/outcome.6eb96d3079777422e5bd5deaa688a46e.svg",
+    "static/media/income.svg": "/github-page/static/media/income.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
+    "static/media/close.svg": "/github-page/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
+    "main.9767fc0c.js.map": "/github-page/static/js/main.9767fc0c.js.map"
   },
   "entrypoints": [
-    "static/js/main.d86dc8e6.js"
+    "static/js/main.9767fc0c.js"
   ]
 }
