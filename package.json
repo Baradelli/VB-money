@@ -2,7 +2,7 @@
   "name": "vb-money",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Baradelli.github.io/vb-money",
+  "homepage": "github-page/",
   "dependencies": {
     "@types/react-modal": "^3.13.1",
     "@types/styled-components": "^5.1.26",
