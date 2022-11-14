@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/VB-money/static/js/main.6c13e275.js",
+    "main.js": "/VB-money/static/js/main.99f7c509.js",
     "static/media/vb-money.svg": "/VB-money/static/media/vb-money.825c224dd7bcc30297291404d30cc862.svg",
     "static/media/dol.svg": "/VB-money/static/media/dol.3a547f9c2ae49647962fbd823349d69f.svg",
     "index.html": "/VB-money/index.html",
     "static/media/outcome.svg": "/VB-money/static/media/outcome.6eb96d3079777422e5bd5deaa688a46e.svg",
     "static/media/income.svg": "/VB-money/static/media/income.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
     "static/media/close.svg": "/VB-money/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
-    "main.6c13e275.js.map": "/VB-money/static/js/main.6c13e275.js.map"
+    "main.99f7c509.js.map": "/VB-money/static/js/main.99f7c509.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c13e275.js"
+    "static/js/main.99f7c509.js"
   ]
 }
